@@ -1,0 +1,12 @@
+E:\БГУИР\ОПИС\Курсовая\QRcoder\QRcoder\QRcoder\bin\Debug\QRcoder.exe.config
+E:\БГУИР\ОПИС\Курсовая\QRcoder\QRcoder\QRcoder\bin\Debug\QRcoder.exe
+E:\БГУИР\ОПИС\Курсовая\QRcoder\QRcoder\QRcoder\bin\Debug\QRcoder.pdb
+E:\БГУИР\ОПИС\Курсовая\QRcoder\QRcoder\QRcoder\bin\Debug\MessagingToolkit.QRCode.dll
+E:\БГУИР\ОПИС\Курсовая\QRcoder\QRcoder\QRcoder\obj\Debug\QRcoder.csprojAssemblyReference.cache
+E:\БГУИР\ОПИС\Курсовая\QRcoder\QRcoder\QRcoder\obj\Debug\QRcoder.Form1.resources
+E:\БГУИР\ОПИС\Курсовая\QRcoder\QRcoder\QRcoder\obj\Debug\QRcoder.Properties.Resources.resources
+E:\БГУИР\ОПИС\Курсовая\QRcoder\QRcoder\QRcoder\obj\Debug\QRcoder.csproj.GenerateResource.cache
+E:\БГУИР\ОПИС\Курсовая\QRcoder\QRcoder\QRcoder\obj\Debug\QRcoder.csproj.CoreCompileInputs.cache
+E:\БГУИР\ОПИС\Курсовая\QRcoder\QRcoder\QRcoder\obj\Debug\QRcoder.csproj.CopyComplete
+E:\БГУИР\ОПИС\Курсовая\QRcoder\QRcoder\QRcoder\obj\Debug\QRcoder.exe
+E:\БГУИР\ОПИС\Курсовая\QRcoder\QRcoder\QRcoder\obj\Debug\QRcoder.pdb

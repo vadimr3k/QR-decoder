@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRcoder", "QRcoder\QRcoder.csproj", "{3D6F5FF0-0E06-4CD5-B946-3579A6B9A5CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D6F5FF0-0E06-4CD5-B946-3579A6B9A5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6F5FF0-0E06-4CD5-B946-3579A6B9A5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6F5FF0-0E06-4CD5-B946-3579A6B9A5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6F5FF0-0E06-4CD5-B946-3579A6B9A5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82589E80-5CDE-4980-9402-D61D197EF329}
+	EndGlobalSection
+EndGlobal
